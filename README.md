@@ -12,6 +12,17 @@ The system automates the update process for legacy quantum code by leveraging of
 
 ---
 
+
+
+## 📄 Extended Abstract
+
+This repository includes the published extended abstract, which documents the theoretical framework, methodology, and initial experimental results of using LLMs for Qiskit code migration.
+
+You can view the document here:
+* [**Qiskit_Code_Migration_with_LLMs.pdf**](Qiskit_Code_Migration_with_LLMs.pdf)
+
+
+---
 ## 🏗 Architecture & Technologies
 
 ### Data Ingestion
