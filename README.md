@@ -138,6 +138,6 @@ Contributions are welcome! If you want to add support for new models (like DeepS
 
 ## 📄 License
 
-This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 License -  see the [LICENSE](LICENSE) file for details.
 
 
